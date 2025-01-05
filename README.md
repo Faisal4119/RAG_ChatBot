@@ -1,4 +1,4 @@
-# NSU ECE ChatBot
+# RAG ChatBot
 
 A conversational chatbot designed for the North South University ECE Department. This project leverages advanced machine learning techniques using the LangChain framework and Gradio UI to create an interactive chatbot capable of answering questions about the department.
 

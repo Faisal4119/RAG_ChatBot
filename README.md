@@ -1,6 +1,6 @@
 # RAG ChatBot
 
-A conversational chatbot designed for the North South University ECE Department. This project leverages advanced machine learning techniques using the LangChain framework and Gradio UI to create an interactive chatbot capable of answering questions about the department.
+A conversational chatbot designed for the North South University ECE Department for CSE299 junior design project. This project leverages advanced machine learning techniques using the LangChain framework and Gradio UI to create an interactive chatbot capable of answering questions about the department.
 
 ## Retrieval-Augmented Generation (RAG) Pipeline
 
